@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neko69420
-- 👀 I’m interested in C programming and C++
-- 🌱 I’m currently learning C 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Website Developing
+- 🌱 I’m currently learning to be a Front-End Developer
+- 💞️ I’m looking to collaborate on making website
 - 📫 How to reach me yhacker987@gmail.com 
 
 <!---
